@@ -1,6 +1,3 @@
-/**
- * Created by 毅 on 2016/8/28.
- */
 
 $(function() {
 
